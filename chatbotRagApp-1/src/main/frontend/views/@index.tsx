@@ -1,0 +1,9 @@
+import "../styles/style.css";
+
+export default function Index(){
+	return(
+	<div className="p-m">
+	<h1>Home Page </h1>
+	</div>
+	);
+}
